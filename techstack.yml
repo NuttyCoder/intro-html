@@ -1,0 +1,18 @@
+repo_name: NuttyCoder/intro-html
+report_id: 79d5df1a9c12bfd733c89690c131adf6
+repo_type: Public
+timestamp: '2023-11-09T20:54:52+00:00'
+requested_by: hectorsector
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
